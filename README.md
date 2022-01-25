@@ -1,7 +1,7 @@
-#Structural Genomics
+# Structural Genomics
 
 
-###Local Alignment:
+### Local Alignment:
 
 A python script to perform local alignment on two DNA or protein sequences.
 User chooses the type of molecule to align with the DNA scoring:
@@ -11,7 +11,7 @@ Gap:-1
 and protein using BLOSUM62 similarity matrix
 
 
-###Global Alignment:
+### Global Alignment:
 
 A python script to perform global alignment on two DNA or protein sequences.
 User chooses the type of molecule to align with the DNA scoring:
@@ -21,13 +21,13 @@ Gap:-1
 and protein using BLOSUM62 similarity matrix
 
 
-###Phylogenetic Tree:
+### Phylogenetic Tree:
 
 A python script to construct a phylogenetic tree given an input distance matrix using the UPGMA method.
 User inserts the distance matrix and the output clarifies all the intermediate calculations, merging steps, and matrices alongside the final result.
 
 
-###Blast Project:
+### Blast Project:
 
 A python script for the Blast technique to search for a protein query in a protein database.
 User inputs a protein sequence query, word threshold, word length, and HSP threshold.
