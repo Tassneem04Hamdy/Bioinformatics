@@ -6,11 +6,9 @@
 A python script to perform local alignment on two DNA or protein sequences.
 User chooses the type of molecule to align with the DNA scoring:
 
-Match: +1
-
-Mismatch: -2
-
-Gap:-1
+  Match: +1
+  Mismatch: -2
+  Gap:-1
 
 and protein using BLOSUM62 similarity matrix
 
@@ -19,9 +17,11 @@ and protein using BLOSUM62 similarity matrix
 
 A python script to perform global alignment on two DNA or protein sequences.
 User chooses the type of molecule to align with the DNA scoring:
-Match: +1
-Mismatch: -2
-Gap:-1
+
+  Match: +1
+  Mismatch: -2
+  Gap:-1
+
 and protein using BLOSUM62 similarity matrix
 
 
