@@ -1,9 +1,3 @@
-#Ahmed Abdelhamed Mohamed
-#Tassneem Hamdy Kourany
-#Manar Maged Mamdouh
-#Hebatallah Amr Mohamed
-#Samia Mohamed Abdelrahim 
-#Mennatallah Shaker Mohamed 
 import numpy as np
 
 option = input ("Enter your option: \n 1: For DNA. \n 2: For Protein. \n")
